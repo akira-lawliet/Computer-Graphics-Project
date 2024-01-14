@@ -13,4 +13,3 @@ The following packages are used in this project
    ```
    pip install pygame
   ```
----
