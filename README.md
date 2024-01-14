@@ -1,6 +1,6 @@
 # Earth-Moon System Demo using PyOpenGL and Pygame
 
-This project is a demonstration of the Earth-Moon relationship in 3D space, implemented using PyOpenGL and Pygame.
+This project is a simple demonstration of the Earth-Moon relationship in 3D space, implemented using PyOpenGL and Pygame.
 
 ---
 
